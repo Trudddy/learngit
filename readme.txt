@@ -5,7 +5,4 @@ shinning in your eye
 we all think being old is a thing far from us.
 creating a new branch is quick, two star love song.
 reality is cruel.
-<<<<<<< HEAD
-=======
 creating a new branch is quick AND simple, it is to hard to say.
->>>>>>> feature1
